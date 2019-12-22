@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{RXBc:function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),r=n.n(a),c=n("Bl7J"),i=n("vrFN");t.default=function(){return r.a.createElement(c.a,null,r.a.createElement(i.a,{title:"Arun"}),r.a.createElement("div",{style:{maxWidth:"300px",marginBottom:"1.45rem"}}))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-c3737da0b5ca621dd7eb.js.map
